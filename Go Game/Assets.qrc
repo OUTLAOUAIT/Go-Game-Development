@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/gobans">
+        <file alias="gob19a">ressources/gobans/gob19a.png</file>
+        <file alias="gob9a">ressources/gobans/gob9a.png</file>
+        <file alias="gob13a">ressources/gobans/gob13a.png</file>
+        <file alias="gob13">ressources/gobans/gob13.png</file>
+        <file alias="gob9">ressources/gobans/gob9.png</file>
+        <file alias="gob19">ressources/gobans/gob19.png</file>
+    </qresource>
+    <qresource prefix="/pNoir">
+        <file alias="pnoire9">ressources/pieces/black9.png</file>
+        <file alias="pnoire">ressources/pieces/black.png</file>
+        <file alias="pnoire13">ressources/pieces/black13.png</file>
+        <file alias="pnoire19">ressources/pieces/black19.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file alias="icongo">ressources/icon/logoGo.png</file>
+        <file alias="menu">ressources/icon/menu.png</file>
+        <file alias="suiv">ressources/icon/suiv.png</file>
+        <file alias="prec">ressources/icon/prec.png</file>
+        <file alias="goa">ressources/icon/goa.png</file>
+        <file alias="go">ressources/icon/go.png</file>
+        <file alias="aplana">ressources/icon/backa.png</file>
+        <file alias="jouer">ressources/icon/jouer.png</file>
+        <file alias="info">ressources/icon/info.png</file>
+        <file alias="regles">ressources/icon/regles.png</file>
+        <file alias="aplan">ressources/icon/back.png</file>
+        <file alias="quitter">ressources/icon/quitter.png</file>
+        <file alias="logo">ressources/icon/logo.png</file>
+        <file alias="passer">ressources/icon/passer.png</file>
+        <file alias="capture">ressources/icon/captures.png</file>
+    </qresource>
+    <qresource prefix="/pBlanc">
+        <file alias="pblanc9">ressources/pieces/white9.png</file>
+        <file alias="pblanc13">ressources/pieces/white13.png</file>
+        <file alias="pblanc">ressources/pieces/white.png</file>
+        <file alias="pblanc19">ressources/pieces/white19.png</file>
+    </qresource>
+    <qresource prefix="/info">
+        <file alias="cpp">ressources/info/cppLogo.png</file>
+        <file alias="qt">ressources/info/logoQt.png</file>
+        <file alias="um5">ressources/info/um5r.png</file>
+        <file alias="ensias">ressources/info/ensias.png</file>
+    </qresource>
+    <qresource prefix="/regles">
+        <file alias="suicide">ressources/regles/suicide.png</file>
+        <file alias="ko">ressources/regles/ko.gif</file>
+        <file alias="libertes">ressources/regles/libertes.png</file>
+        <file alias="materiel">ressources/regles/materiel.jpeg</file>
+        <file alias="plateau">ressources/regles/goimage.jpeg</file>
+    </qresource>
+</RCC>
