@@ -27,7 +27,7 @@ The game ends when both players pass consecutively. The points are then counted.
 ## Class diagram modeling
 
 
-  <img src="https://github.com/OUTLAOUAIT/Deep-Hybrid-Learning-for-Brain-Tumor-Classification/blob/main/types.png"/>
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/class%20diagram.PNG"/>
 
 
 
