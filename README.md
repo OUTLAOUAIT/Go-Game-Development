@@ -45,8 +45,6 @@ The main menu :
 
   <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/menu.PNG"/>
 
-
-
 The rules of the game are laid out in a linear fashion linear and can be consulted thanks to a scroll bar. scroll bar. At the bottom, a icon allowing to go back to the main menu.
 
   <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/rules.PNG"/>
@@ -54,17 +52,25 @@ The rules of the game are laid out in a linear fashion linear and can be consult
 The table of choice of the specificities of the game :
 
   <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/preparation.PNG"/>
+  
 The beginning of a game.
+
   <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/Begin.PNG"/>
 
 In the middle of a game :
+
   <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/game.PNG"/>
+  
 The capture (box D4) increases the player's score
+
   <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/between.PNG"/>
+  
 Message in case of suicide.
+
   <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/suicide.PNG"/>
 
 A message declaring the winner
+
   <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/endgame.PNG"/>
 
 
