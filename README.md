@@ -8,6 +8,9 @@ The game of Go is initiated by the presence of two players using an indefinite n
 
 The game table, called the Goban, is a matrix made of 361 (19x19) intersections serving as seats for the stones placed. The main goal is to capture as many opponent stones as possible and to establish a large area on the goban. The game ends with the surrender of a player.
 
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/Goban.PNG"/>
+
+
 ## Game rules
 
 ### How the game is played ?
