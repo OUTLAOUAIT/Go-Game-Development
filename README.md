@@ -51,5 +51,20 @@ The rules of the game are laid out in a linear fashion linear and can be consult
 
   <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/rules.PNG"/>
 
+The table of choice of the specificities of the game :
+
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/preparation.PNG"/>
+The beginning of a game.
+<img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/Begin.PNG"/>
+
+In the middle of a game :
+<img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/rules.PNG"/>
+The capture (box D4) increases the player's score
+<img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/rules.PNG"/>
+Message in case of suicide.
+<img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/endgame.PNG"/>
+
+A message declaring the winner
+
 
 
