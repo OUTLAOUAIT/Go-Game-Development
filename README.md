@@ -59,11 +59,13 @@ The beginning of a game.
 
 In the middle of a game :
 
-  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/game.PNG"/>
+  
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/between.PNG"/>
   
 The capture (box D4) increases the player's score
+  
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/game.PNG"/>
 
-  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/between.PNG"/>
   
 Message in case of suicide.
 
