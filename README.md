@@ -24,6 +24,8 @@ A player, by placing a stone, must not give the goban a state identical to one t
 ### Endgame
 The game ends when both players pass consecutively. The points are then counted. Each intersection of a player's territory earns him one point, as well as each of his stones still present on the goban.
 
+## Class diagram modeling
+
 
   <img src="https://github.com/OUTLAOUAIT/Deep-Hybrid-Learning-for-Brain-Tumor-Classification/blob/main/types.png"/>
 
