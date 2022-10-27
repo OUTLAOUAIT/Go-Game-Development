@@ -32,5 +32,24 @@ The game ends when both players pass consecutively. The points are then counted.
 
   <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/class%20diagram.PNG"/>
 
+## Realization
+
+### Mobile App
+
+The emoticon of the Go game on one of our cell phones:
+
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/emoticone.PNG"/>
+
+
+The main menu :
+
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/menu.PNG"/>
+
+
+
+The rules of the game are laid out in a linear fashion linear and can be consulted thanks to a scroll bar. scroll bar. At the bottom, a icon allowing to go back to the main menu.
+
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/rules.PNG"/>
+
 
 
