@@ -55,17 +55,16 @@ The table of choice of the specificities of the game :
 
   <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/preparation.PNG"/>
 The beginning of a game.
-<img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/Begin.PNG"/>
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/Begin.PNG"/>
 
 In the middle of a game :
-<img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/game.PNG"/>
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/game.PNG"/>
 The capture (box D4) increases the player's score
-<img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/between.PNG"/>
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/between.PNG"/>
 Message in case of suicide.
-<img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/suicide.PNG"/>
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/suicide.PNG"/>
 
 A message declaring the winner
-
-<img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/endgame.PNG"/>
+  <img src="https://github.com/OUTLAOUAIT/Go-Game-Development/blob/main/Images/endgame.PNG"/>
 
 
